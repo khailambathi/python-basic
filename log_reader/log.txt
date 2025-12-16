@@ -1,0 +1,7 @@
+2024-12-14 10:23:45 GET /api/users 200 145ms 
+2024-12-14 10:23:46 POST /api/login/ 401 23ms 
+2024-12-14 10:23:47 GET /api/products 200 89ms 
+2024-12-14 10:23:48 DELETE /api/users/123 404 12ms 
+2024-12-14 10:23:49 GET /api/users 500 234ms 
+2024-12-14 10:23:50 POST /api/users 403 10ms 
+2024-12-14 10:24:01 GET /api/products 500 200ms 
